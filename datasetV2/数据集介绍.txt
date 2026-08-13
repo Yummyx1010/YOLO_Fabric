@@ -1,0 +1,15 @@
+nc:6类, 
+名称: ['DaiSha','DuanSha','MianQiu','PoDong','TuoSha','WuZi'] ,
+数据集数量: 训练集 1650 张, 验证集 467张 .
+
+DaiSha - 带纱 (Gauze with edges)
+
+DuanSha - 段纱 (Segment gauze)
+
+MianQiu - 棉球 (Cotton ball)
+
+PoDong - 破洞 (Hole or tear)
+
+TuoSha - 脱纱 (Loose gauze)
+
+WuZi - 污渍 (Stain)

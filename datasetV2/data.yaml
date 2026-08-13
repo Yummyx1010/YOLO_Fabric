@@ -1,0 +1,7 @@
+train: D:\prog\PythonProg\YOLO_Fabric\datasetV2\train\images
+val: D:\prog\PythonProg\YOLO_Fabric\datasetV2\valid\images
+
+
+# Classes
+nc: 6
+names: ['DaiSha','DuanSha','MianQiu','PoDong','TuoSha','WuZi']
